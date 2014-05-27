@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1086526-4df5-45dd-8e5f-1c09527abd33" name="Default" comment="" />
+    <ignored path="app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Project.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Model/Project.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="160.70833" vertical-offset="3857" max-vertical-offset="6675">
+              <folding>
+                <marker date="1392897863000" expanded="true" signature="6329:6410" placeholder="SELECT file_..project_businessplan_files..." />
+                <marker date="1392897863000" expanded="true" signature="7155:7224" placeholder="SELECT skill..jobs_skills..." />
+                <marker date="1392897863000" expanded="true" signature="8278:8347" placeholder="SELECT skill..jobs_skills..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="general.ctp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/View/Teamup/general.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="20" selection-start="502" selection-end="502" vertical-scroll-proportion="0.36020583" vertical-offset="0" max-vertical-offset="1635">
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminsController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controller/AdminsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="295" column="53" selection-start="9922" selection-end="9938" vertical-scroll-proportion="-12.708333" vertical-offset="4120" max-vertical-offset="9495">
+              <folding>
+                <marker date="1394641461000" expanded="true" signature="9720:9757" placeholder="SELECT * FRO..users..." />
+                <marker date="1394641461000" expanded="true" signature="9905:9959" placeholder="UPDATE users..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Job.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Model/Job.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="746" column="26" selection-start="22638" selection-end="22638" vertical-scroll-proportion="-19.208334" vertical-offset="10639" max-vertical-offset="11460">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/View/Projects/public_view.ctp" />
+        <option value="$PROJECT_DIR$/View/Elements/Front/ele_footer.ctp" />
+        <option value="$PROJECT_DIR$/Config/core.php" />
+        <option value="$PROJECT_DIR$/Controller/TeamupController.php" />
+        <option value="$PROJECT_DIR$/Controller/InboxController.php" />
+        <option value="$PROJECT_DIR$/View/Workrooms/workroom.ctp" />
+        <option value="$PROJECT_DIR$/View/Workrooms/projecto.ctp" />
+        <option value="$PROJECT_DIR$/Controller/UsersController.php" />
+        <option value="$PROJECT_DIR$/View/Users/userinfo_authenticate.ctp" />
+        <option value="$PROJECT_DIR$/Model/Workroom.php" />
+        <option value="$PROJECT_DIR$/Controller/WorkroomsController.php" />
+        <option value="$PROJECT_DIR$/Model/Job.php" />
+        <option value="$PROJECT_DIR$/View/Teamup/general.ctp" />
+        <option value="$PROJECT_DIR$/Controller/AdminsController.php" />
+        <option value="$PROJECT_DIR$/View/Admins/admin_linkid.ctp" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="717" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tmp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tmp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1086526-4df5-45dd-8e5f-1c09527abd33" name="Default" comment="" />
+      <created>1394543602490</created>
+      <updated>1394543602490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="22" width="1280" height="717" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Controller/TeamupController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1080" column="17" selection-start="33217" selection-end="33217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="17535">
+          <folding>
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT file ..teamup_files..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT file ..teamup_files..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..teamup_jobs..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..teamup_jobs..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT proje..jobs..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT clb F..clb_job..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_general..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT proje..jobs..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT proje..jobs..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT proje..jobs..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_terms..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_files..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE workr..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller/WorkroomsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="8" selection-start="1898" selection-end="1898" vertical-scroll-proportion="0.0" vertical-offset="1270" max-vertical-offset="13260">
+          <folding>
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_hidden..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_files..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_experts..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="SELECT id FR..workroom_chat_files..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Workroom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="717" column="16" selection-start="18162" selection-end="18162" vertical-scroll-proportion="0.0" vertical-offset="10495" max-vertical-offset="24495">
+          <folding>
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT proje..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_experts..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_hidden..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_experts..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_hidden..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_experts..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_files..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT file ..workroom_files..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_experts..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_chat_files..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT id FR..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..chat_logs..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="UPDATE chat_..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT file ..workroom_files..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT id FR..workroom_files..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_hidden..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_experts..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="UPDATE workr..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_jobs..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..teamup_milestones..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..teamup_milestones..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_jobs..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_details..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_files..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3836" column="1" selection-start="129624" selection-end="129624" vertical-scroll-proportion="0.0" vertical-offset="57152" max-vertical-offset="58200">
+          <folding>
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT skill..skills_users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..auth_payed..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT worki..users_working_statuses..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT name ..working_statuses..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT avail..user_details..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT avail..user_details..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT worki..users_working_statuses..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT name ..working_statuses..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT skill..skills_users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT name ..availabilities..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..regions..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="38" selection-start="1158" selection-end="1158" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="5265" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/states_amirc.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3837" column="106" selection-start="129571" selection-end="129571" vertical-scroll-proportion="0.0" vertical-offset="57092" max-vertical-offset="57855">
+          <folding>
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT skill..skills_users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..auth_payed..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT worki..users_working_statuses..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT name ..working_statuses..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT avail..user_details..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT avail..user_details..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT worki..users_working_statuses..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT name ..working_statuses..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT skill..skills_users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT name ..availabilities..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..regions..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="9" selection-start="597" selection-end="604" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/Projects/public_view.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="48" selection-start="2703" selection-end="2703" vertical-scroll-proportion="-5.625" vertical-offset="1800" max-vertical-offset="10995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/Elements/Front/ele_search_project_right_sidebar.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="84" selection-start="4395" selection-end="4395" vertical-scroll-proportion="0.33447686" vertical-offset="1890" max-vertical-offset="4350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/Elements/Front/ele_footer.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="110" selection-start="2107" selection-end="2107" vertical-scroll-proportion="0.48885077" vertical-offset="570" max-vertical-offset="4575" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/CCSV.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="31" selection-start="288" selection-end="288" vertical-scroll-proportion="0.22765599" vertical-offset="0" max-vertical-offset="2280" />
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="9" selection-start="597" selection-end="604" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="38" selection-start="1158" selection-end="1158" vertical-scroll-proportion="-0.46312177" vertical-offset="540" max-vertical-offset="4995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/states_amirc.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller/JobsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3099" column="37" selection-start="103023" selection-end="103023" vertical-scroll-proportion="0.49371633" vertical-offset="46120" max-vertical-offset="48945" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller/TeamupController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="773" column="0" selection-start="22711" selection-end="22711" vertical-scroll-proportion="0.6768402" vertical-offset="11128" max-vertical-offset="17505">
+          <folding>
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT file ..teamup_files..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT file ..teamup_files..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..teamup_jobs..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..teamup_jobs..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT proje..jobs..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT clb F..clb_job..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_general..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT proje..jobs..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_milestones..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT proje..jobs..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT proje..jobs..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE teamu..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_terms..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_files..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="UPDATE workr..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394618596000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/Layouts/workrooms.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="16" selection-start="1140" selection-end="1144" vertical-scroll-proportion="-0.5263158" vertical-offset="855" max-vertical-offset="1425">
+          <folding>
+            <marker date="1390503642000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller/InboxController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="1045" selection-end="1045" vertical-scroll-proportion="-7.3333335" vertical-offset="379" max-vertical-offset="975">
+          <folding>
+            <marker date="1394638307000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394638307000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/Workrooms/projecto.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="233" column="53" selection-start="6333" selection-end="6333" vertical-scroll-proportion="0.15437393" vertical-offset="3405" max-vertical-offset="6750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2471" column="14" selection-start="85838" selection-end="85838" vertical-scroll-proportion="-5.2" vertical-offset="36805" max-vertical-offset="58230">
+          <folding>
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT skill..skills_users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE user_..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..auth_payed..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT worki..users_working_statuses..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT name ..working_statuses..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT avail..user_details..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT avail..user_details..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT worki..users_working_statuses..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT name ..working_statuses..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT skill..skills_users..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT name ..availabilities..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..regions..." />
+            <marker date="1394639319000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/Users/userinfo_authenticate.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="1" selection-start="3580" selection-end="3580" vertical-scroll-proportion="0.43396226" vertical-offset="1217" max-vertical-offset="3285">
+          <folding>
+            <element signature="n#style#0;n#label#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#li#7;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#li#8;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#li#11;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller/WorkroomsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="512" column="51" selection-start="14282" selection-end="14282" vertical-scroll-proportion="0.95152605" vertical-offset="7150" max-vertical-offset="13335">
+          <folding>
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_hidden..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_files..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_experts..." />
+            <marker date="1394640849000" expanded="true" signature="-1:-1" placeholder="SELECT id FR..workroom_chat_files..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Workroom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="881" column="62" selection-start="22149" selection-end="22149" vertical-scroll-proportion="0.62836623" vertical-offset="12865" max-vertical-offset="24675">
+          <folding>
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT proje..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_experts..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_hidden..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_experts..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_hidden..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_experts..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_files..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT file ..workroom_files..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_experts..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom_chat_files..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT id FR..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..chat_logs..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="UPDATE chat_..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT file ..workroom_files..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT id FR..workroom_files..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_hidden..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_experts..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="UPDATE workr..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_jobs..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..teamup_milestones..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..teamup_milestones..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_chat..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..workroom..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..teamup_jobs..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_details..." />
+            <marker date="1394640755000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..workroom_files..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/Workrooms/workroom.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="307" column="74" selection-start="7848" selection-end="7855" vertical-scroll-proportion="0.22441652" vertical-offset="4480" max-vertical-offset="7545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="160.70833" vertical-offset="3857" max-vertical-offset="6675">
+          <folding>
+            <marker date="1392897863000" expanded="true" signature="6329:6410" placeholder="SELECT file_..project_businessplan_files..." />
+            <marker date="1392897863000" expanded="true" signature="7155:7224" placeholder="SELECT skill..jobs_skills..." />
+            <marker date="1392897863000" expanded="true" signature="8278:8347" placeholder="SELECT skill..jobs_skills..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Job.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="746" column="26" selection-start="22638" selection-end="22638" vertical-scroll-proportion="-19.208334" vertical-offset="10639" max-vertical-offset="11460">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller/AdminsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="295" column="53" selection-start="9922" selection-end="9938" vertical-scroll-proportion="-12.708333" vertical-offset="4120" max-vertical-offset="9495">
+          <folding>
+            <marker date="1394641461000" expanded="true" signature="9720:9757" placeholder="SELECT * FRO..users..." />
+            <marker date="1394641461000" expanded="true" signature="9905:9959" placeholder="UPDATE users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/Admins/admin_linkid.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="44" selection-start="274" selection-end="274" vertical-scroll-proportion="0.2572899" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/Teamup/general.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="20" selection-start="502" selection-end="502" vertical-scroll-proportion="0.36020583" vertical-offset="0" max-vertical-offset="1635">
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
